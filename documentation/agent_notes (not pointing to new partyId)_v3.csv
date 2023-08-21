@@ -1,0 +1,740 @@
+Id,Party_Id,Parent_Note_Id,Category,Sub_Category,Channel,Party_Name,Contact_Info,Type,Pin_Flag,Note,Created_Date,Created_By
+740,2322589127,NULL,GSave,Deposit Money,In-App,,,Customer,N,"Support: In-app
+Acc number: 2030
+Issue: Deposit money
+4,000
+Action: as per checking your funds has been posted last 17/Aug/2023 11:41:00, amount of php4,000.00",17-08-2023 19:55,caira.sotto@uno.bank
+744,2322704041,NULL,GSave,Deposit Money,In-App,,,Customer,N,"Support: In-app
+Acc number: 7528
+issue: Deposit money
+Action: adv cx  If you can send us the transaction date/time, amount and reference no.  We will take a look at it for you",17-08-2023 20:25,caira.sotto@uno.bank
+745,2322518698,NULL,GSave,Deposit Money,In-App,,,Customer,N,"Deposit money
+-100.00
+Action: . Kindly check your account, as per checking your funds has been posted last 17/Aug/2023 11:05:51 , amount of php100.00. ",17-08-2023 20:30,caira.sotto@uno.bank
+747,2322481116,NULL,GSave,Deposit Money,In-App,,,Customer,N,"Support: In-app
+Acc number: 6435
+Issue: Deposit money
+-2,000
+Action: Informed cx funds has been reflected to his accoun",17-08-2023 20:39,caira.sotto@uno.bank
+754,2322416818,NULL,GSave,Loans,In-App,,,Customer,N,"Date&Time: Aug. 18 6:47AM
+Support Channel: In-App
+Account no.: 6835
+Issue: Loan Inq	
+Action Done: 
+- Send Response via In-App
+- Informed the cx that currently the loan is on hold",18-08-2023 06:49,elmo.antonio@uno.bank
+756,2322282544,NULL,GSave,Deposit Money,In-App,,,Customer,N,"Date and Time: Aug 18,2023
+Support Channel: In-App
+Account no.: 4477
+Issue: Unposted deposit money yesterday amounting PHP300 form GCash to UNO
+Action: Adv cx that the amount was already posted today",18-08-2023 07:02,loida.lumagbas@uno.bank
+758,2322418552,NULL,GSave,Promos and Offer,In-App,,,Customer,N,"Date and Time: Aug 17,2023
+Support Channel: In-App
+Account no.: 3132
+Issue: Pay and save promo inquiry
+Action: Ask cx transaction date and amount for us to be able to check",18-08-2023 07:25,loida.lumagbas@uno.bank
+759,2323072139,NULL,GSave,Deposit Money,In-App,,,Customer,N,"
+Support Channel: In-App
+Account: 7039
+Issue: Unposted deposit
+Transaction Amount:Php2,000.00
+Transaction Date and Time: 17/Aug/2023 10:57:49
+Source and Destination Bank: GCash to UNO
+Actions Done:
+- Send response via In-App
+Informed the cx that the transaction was already posted on the account
+Reference Number: 16922345689968069",18-08-2023 07:34,elmo.antonio@uno.bank
+765,2322660595,NULL,Transactions,Send Money - Incorrect Account Number,Inbound Call,,,Customer,N,"Time and Date: Aug 18,2023  7:48AM
+Jira Ticket: UISDV0-10162 2:12 pm 
+Support Channel: Inbound Call
+Account Number: 5732
+Issue: customer send money to Send Money to Security Bank Corporation and she has sent to a wrong account number
+Actions Done: 
+- check on customer account and it was already raised to our Banking Operations 
+- so advised customer that it was already raised and the process for this will be (Started August 14) 7 banking days 
+- customer said that Security Bank mentioned that she needs to coordinate this to us
+- upon checking, the transaction is success in brankas
+- the correct account number should be 13686172",18-08-2023 08:03,witty.bautista@uno.bank
+766,2322224072,NULL,GSave,Deposit Money,In-App,,,Customer,N,"Date&Time: Aug 18 8:02AM
+Support Channel: In-App
+Account: 9523
+Issue: Unposted deposit
+Transaction Amount: Php500.00
+Transaction Date and Time: 17/Aug/2023 11:02:25
+Source and Destination Bank: GCash to UNO
+Actions Done:
+- Send response via In-App
+Informed the cx that the transaction was already posted on the account
+Reference Number: 16922347596163546",18-08-2023 08:03,elmo.antonio@uno.bank
+769,2323072129,NULL,GSave,Others,In-App,,,Customer,N,"Support Channel: In App
+Account Number: 4204
+Issue: Vague
+Action Done: I asked customer what is specific concern",18-08-2023 08:07,danilo.sicat@uno.bank
+770,2322418588,NULL,GSave,Deposit Money,In-App,,,Customer,N,"Date&Time: Aug 18 8:07AM
+Support Channel: In-App
+Account: 8194
+Issue: Unposted deposit
+Transaction Amount: Php1,000.00
+Transaction Date and Time: 17/Aug/2023 11:03:08
+Source and Destination Bank: GCash to UNO
+Actions Done:
+- Send response via In-App
+Informed the cx that the transaction was already posted on the account
+Reference Number: 16922346567363542
+",18-08-2023 08:08,elmo.antonio@uno.bank
+772,2323071173,NULL,GSave,Deposit Money,In-App,,,Customer,N,"Date&Time: Aug 18 8:14AM
+Support Channel: In-App
+Account: 5505
+Issue: Unposted deposit
+Transaction Amount: Php100.00
+Transaction Date and Time: 17/Aug/2023 10:47:35
+Source and Destination Bank: GCash to UNO
+Actions Done:
+- Send response via In-App
+Informed the cx that the transaction was already posted on the account
+Reference Number: 16922339767606728
+",18-08-2023 08:15,elmo.antonio@uno.bank
+773,2322651339,NULL,GSave,Deposit Money,In-App,,,Customer,N,"Date&Time: Aug 18 8:20AM
+Support Channel: In-App
+Account: 4920
+Issue: Unposted deposit
+Transaction Amount: Php60.00
+Transaction Date and Time: 	
+17/Aug/2023 10:46:40
+Source and Destination Bank: GCash to UNO
+Actions Done:
+- Send response via In-App
+Informed the cx that the transaction was already posted on the account
+Reference Number: 16922340147765164",18-08-2023 08:20,elmo.antonio@uno.bank
+775,2322344917,NULL,GSave,Deposit Money,In-App,,,Customer,N,"Date&Time: Aug 18 8:20AM
+Support Channel: In-App
+Account: 7280
+Issue: Unposted deposit
+Transaction Amount: Php3,400.00
+Transaction Date and Time: 	
+17/Aug/2023 11:03:13
+Source and Destination Bank: GCash to UNO
+Actions Done:
+- Send response via In-App
+Informed the cx that the transaction was already posted on the account
+Reference Number: 16922346386654224",18-08-2023 08:27,elmo.antonio@uno.bank
+778,2322707297,NULL,GSave,Deposit Money,In-App,,,Customer,N,"Support Channel: In App
+Account Number: 9377
+Issue: Unposted deposit from Union bank to UNO ( I sent P200 from my UnionBank account via PesoNet to my #UNOready@GCash account on 08/17. I received an SMS from UnionBank at 6:17PM that the transfer has been executed from their end but end of day has passed but the amount was not credited to my account )
+Action Done: I advised customer about pesonet ",18-08-2023 08:42,danilo.sicat@uno.bank
+779,2322761154,NULL,GSave,Others,In-App,,,Customer,N,"Support Channel: In App
+Account Number: 5561
+issue: Vague ( Cash )
+Action Done: I asked customer what is specific concern",18-08-2023 08:45,danilo.sicat@uno.bank
+780,2322473959,NULL,GSave,Loans,In-App,,,Customer,N,"Support Channel: In App
+Account Number: 4399
+Issue: Loan ( Hinde Naman Pala nakakaloan sa inyo )
+Action Done: I told to the customer that currently, the loans applications are on hold because we are now gearing up for the full release of this feature through our app, don't worry, we will get back to you and let you know as soon as we resume with applications for loans.",18-08-2023 08:51,danilo.sicat@uno.bank
+781,2322706871,NULL,General Enquiry,Loans,In-App,,,Customer,N,"Support Channel: In App
+Account Number: 8144
+Issue: Loan- ( I want to loan )
+Action Done: I told to the customer that currently, the loans applications are on hold because we are now gearing up for the full release of this feature through our app, don't worry, we will get back to you and let you know as soon as we resume with applications for loans.",18-08-2023 08:55,danilo.sicat@uno.bank
+783,2322221203,NULL,GSave,Certification,In-App,,,Customer,N,"Date and Time: Aug 17,2023
+Support Channel: In-App
+Account no.: 3181
+Issue: Cx requested his all Time deposit certificate for his safekeeping & documentation and also he need copies of his bank statements as well for travel purposes and other investments
+Action: Advised to cx that I will endorsed this to our Banking OPS
+	-Adv. cx TAT 3 to 5 banking days starting by monday
+	-Walkthrough the cx how to download his bank statement 
+
+TD1- 40002940120567
+TD2- 40007010569596
+TD3- 40000859668559
+TD4- 40000676379895
+
+Other action taken: Created task to monitor account and input in hourly tracker",18-08-2023 08:58,loida.lumagbas@uno.bank
+784,2322707477,NULL,Transactions,Send Money - Posting Timeline,Inbound Call,,,Customer,N,"Date&Time: Aug 18 8:40AM
+Support Channel: Inbound
+Account: 8753
+Issue: Unposted Send Money
+Transaction Amount: Php50,000.00
+Transaction Date and Time: 	
+17/Aug/2023 21:57:50 & 17/Aug/2023 22:00:10
+Source and Destination Bank: UNO to Bank Of The Philippine Islands
+Actions Done:
+- customer called in about unposted transaction
+- as per cx he transfer 50000 twice to BPI however he only received 50000.
+- informed the customer that it will forwarded to our banking ops
+- 1-3 banking ops
+Reference Number: 89411595141692280667 & 89411595141692280807",18-08-2023 09:10,elmo.antonio@uno.bank
+785,2322396121,NULL,GSave,Deposit Money,In-App,,,Customer,N,"Date and Time: Aug 17,2023
+Support Channel: In-App
+Account no.: 9789
+Issue: Unposted transaction deposit money amounting PHP4,922 yesterday from GCash to UNO however as per cx the transaction was delayed and informed us that the amount was already posted
+Action: Completed closing spiel",18-08-2023 09:15,loida.lumagbas@uno.bank
+786,2322707477,784,Transactions,Send Money - Posting Timeline,Inbound Call,,,Customer,N,Raise to JIRA : UISDV0-10412,18-08-2023 09:16,elmo.antonio@uno.bank
+787,2322757719,NULL,Transactions,Send Money - Failed Transaction due to Error,Email,,,Customer,N,"mambu
+unposted send monet yo paymaya for 500 
+reversed back on the same day
+email sent ",18-08-2023 09:24,maita.yranela@uno.bank
+788,2322370769,NULL,Service Request,Profile Update,In-App,,,Customer,N,"Date and Time: Aug 17,2023
+Support Channel: In-App
+Account no.: 0731
+Issue: Cx wanted to update her address
+Action: Ask cx reason and ask her updated address",18-08-2023 09:26,loida.lumagbas@uno.bank
+790,2322176743,NULL,GSave,Deposit Money,In-App,,,Customer,N,"Date and Time: Aug 17,2023
+Support Channel: In-App
+Account no.: 8564
+Issue: Unposted deposit money yesterday amounting PHP2000 from GCash to UNO 
+Action: Adv. cx that the amount was already posted yesterday",18-08-2023 09:31,loida.lumagbas@uno.bank
+791,2323071615,NULL,GSave,Deposit Money,In-App,,,Customer,N,"Date&Time: Aug 18 8:35AM
+Support Channel: In-App
+Account: 4241
+Issue: Unposted deposit
+Transaction Amount: Php3,000.00 & Php100.00
+Transaction Date and Time: 17/Aug/2023 10:41:30 & 17/Aug/2023 11:08:40
+Source and Destination Bank: GCash to UNO
+Actions Done:
+- Send response via In-App
+- Informed the cx that the transaction was already posted on the account
+Reference Number: 16922329671989637 & 16922351978386765
+",18-08-2023 09:36,elmo.antonio@uno.bank
+792,2322740003,NULL,GSave,Certification,In-App,,,Customer,N,"Support Channel:In app
+Account no.:3471
+Issue:Statement of acct.
+Action Done:Walk the cx through the process on how to download statement of acct",18-08-2023 09:39,joanne.medelin@uno.bank
+793,2322549069,NULL,GSave,Deposit Money,In-App,,,Customer,N,"Date&Time: Aug 18 9:41AM
+Support Channel: In-App
+Account: 09717
+Issue: Unposted deposit
+Transaction Amount: Php100.00
+Transaction Date and Time: 17/Aug/2023 10:53:16
+Source and Destination Bank: GCash to UNO
+Actions Done:
+- Send response via In-App
+- Informed the cx that the transaction was already posted on the account
+Reference Number: 16922351919884091",18-08-2023 09:42,elmo.antonio@uno.bank
+794,2322400247,NULL,GSave,Loans,In-App,,,Customer,N,"Support Channel:In app
+Account no.:4536
+Issue:Loan inq
+Action Done:Advsd that currently UNO loan is on hold.",18-08-2023 09:44,joanne.medelin@uno.bank
+795,2322643973,NULL,GSave,Deposit Money,Email,,,Customer,N,"unposted depsit money 40php 
+credited ",18-08-2023 09:50,maita.yranela@uno.bank
+796,2322264754,NULL,GSave,Deposit Money,In-App,,,Customer,N,"Date&Time: Aug 18 9:48AM
+Support Channel: In-App
+Account: 2303
+Issue: Unposted deposit
+Transaction Amount: Php1,700.00
+Transaction Date and Time: 17/Aug/2023 10:54:46
+Source and Destination Bank: GCash to UNO
+Actions Done:
+- Send response via In-App
+- Informed the cx that the transaction was already posted on the account
+Reference Number: 16922347626941445
+",18-08-2023 09:50,elmo.antonio@uno.bank
+798,2322668295,NULL,GSave,Cards,In-App,,,Customer,N,"Support Channel:In app
+Account no.:2581
+Issue:Physical card
+Action Done: We don't have a specific date yet but the UNO Debit Master card is already in a pipeline",18-08-2023 09:54,joanne.medelin@uno.bank
+799,2322427399,NULL,GSave,Cards,In-App,,,Customer,N,"Support Channel: In App
+Account Number: 5953
+Issue: Physical Card ( how do i get my physical debit card? )
+Action Done: I advised customer that we don't have a specific date yet but the UNO Debit Master card is already in a pipeline",18-08-2023 09:54,danilo.sicat@uno.bank
+803,2322203135,NULL,GSave,Profile Update,In-App,,,Customer,N,"Support Channel: In App
+Account Number: 9677
+Issue: Change mobile number ( How can I change my registered mobile number here because my sim card 
+seems to be broken and has lost signal )
+Action Done: I asked customer what number number you want to change to your old one",18-08-2023 10:25,danilo.sicat@uno.bank
+804,2322308957,NULL,Transactions,Add Money – OTC,Inbound Call,,,Customer,N,"Date and Time: Aug 17,2023
+Support Channel: In-App
+Account no.: 7770
+Issue: Cx can't add money OTC using EZ pay kiosk 
+Action: Adv. cx that currently the EZ pay kiosk is not yet available; adv. cx to use other option for OTC",18-08-2023 10:26,loida.lumagbas@uno.bank
+805,2322576187,NULL,GSave,Loans,In-App,,,Customer,N,"Date and Time: Aug 17,2023
+Support Channel: In-App
+Account no.: 5798
+Issue: Loan inquiry; cx wanted to loan
+Action: Adv. cx that loan was currently on hold",18-08-2023 10:28,loida.lumagbas@uno.bank
+806,2322629404,NULL,GSave,Others,In-App,,,Customer,N,"Support Channel: In App
+Account Number: 4207
+Issue: Vague
+Action Done: I asked customer what is specific concern",18-08-2023 10:30,danilo.sicat@uno.bank
+807,2322501898,NULL,GSave,Deposit Money,In-App,,,Customer,N,"Date and Time: Aug 17,2023
+Support Channel: In-App
+Account no.: 7058
+Issue : Unposted deposit money amounting PHP2000 from GCash to UNO yesterday
+Action: Adv. cx that the amount was already posted yesterday
+",18-08-2023 10:34,loida.lumagbas@uno.bank
+808,2322239398,NULL,Complaint,BSP Complaints,Email,,,Customer,N,"	
+Time and Done: Aug 08,2023 7:50 pm
+Support Channel: Inbound call 
+Account Number: 1852
+Issue: Dispute Request 
+- customer purchase a shoes in Lazada worth of Php3,595.50 using his virtual debit mastercard
+- he cancel the purchase to Lazada and Lazada already notifie him for the process of refund, he was asking on how many days the refund will be credited to his account 
+Action Done:
+- advised customer that we have a process for dispute or refund request 
+- Read the Terms and Condition to customer and asked if he confirm,
+- customer said that he confirm.
+Dispute Category:​ Credit not received 
+Customer Reason for Dispute: customer's cancel his purchase to Lazada and it was confirm by Lazada that it was already refunded 
+Merchant name​: Lazada 
+Transaction Date and Time​: aug 02,2023 8:30 pm 
+Amount:3,595.50 
+Requirements: Proof of Refund from Lazada
+
+	
+db 
+as per banking team
+norefund request reqeust receved yet from LAZADA .
+will need to wait for settlement report from merchant for the refund to be processed 
+advd customer of timeline 
+if not recevied by aug 21 -22 will file charge back with MC
+
+Case is created with ID COM18082023104339",18-08-2023 10:44,maita.yranela@uno.bank
+809,2322208020,NULL,GSave,Withdraw Money,In-App,,,Customer,N,"Support Channel:In app
+Account no.:6654
+Issue:Can't withdraw to other no.
+Action Done:Advsd that it can only withdraw right through her GCash wallet.",18-08-2023 10:52,joanne.medelin@uno.bank
+810,2322304242,NULL,GSave,Others,In-App,,,Customer,N,"Support Channel: In App
+Account Number: 6710
+Issue: Vague
+Action Done: I asked customer what is specific concern",18-08-2023 10:57,danilo.sicat@uno.bank
+811,2322239925,NULL,GSave,Deposit Money,Email,,,Customer,N,"unposted deposit money aug 17 
+credited ",18-08-2023 11:01,maita.yranela@uno.bank
+812,2322427085,NULL,GSave,Deposit Money,In-App,,,Customer,N,"Date and Time: Aug 17,2023
+Support Channel: In-App
+Account no.: 5272
+Issue: Unposted deposit money amounting PHP200 yesterday from GCash to UNO
+Action: Adv. cx that the amount was already posted yesterday",18-08-2023 11:14,loida.lumagbas@uno.bank
+814,2322458306,NULL,Service Request,Certification,In-App,,,Customer,N,"Support: In app
+Acc num: 5681
+Issue: Requesting for TD Cert / UNOEarn and UNOBoost
+Action: 
+-Adv cx that his request already forwarded on our Banking Ops.
+-Adv cx that our TAT is 3-5 Banking days
+-Inform cx that once there is a result I will update cx thru in app.",18-08-2023 11:21,analyn.mabale@uno.bank
+815,2322219243,NULL,GSave,Deposit Money,In-App,,,Customer,N,"Date and Time: Aug 17,2023
+Support Channel: In-App
+Account no.: 7733
+Issue: Unposted deposit money amounting PHP3500 yesterday from GCash to UNO
+Action: Adv. cx that the amount was already posted yesterday",18-08-2023 11:23,loida.lumagbas@uno.bank
+816,2322592859,NULL,GSave,Deposit Money,In-App,,,Customer,N,"Date and Time: Aug 17,2023
+Support Channel: In-App
+Account no.: 7302
+Issue: Unposted deposit money amounting PHP100 yesterday from GCash to UNO
+Action: Adv. cx that the amount was already posted yesterday",18-08-2023 11:27,loida.lumagbas@uno.bank
+817,2322759566,NULL,GSave,Deposit Money,In-App,,,Customer,N,"Date and Time: Aug 17,2023
+Support Channel: In-App
+Account no.: 4357
+Issue: Unposted deposit money amounting PHP1000 yesterday from GCash to UNO
+Action: Adv. cx that the amount was already posted yesterday",18-08-2023 11:33,loida.lumagbas@uno.bank
+818,2323071139,NULL,GSave,Linking Gsave and UNO App,Email,,,Customer,N,"app linking 
+advd 24 hrs",18-08-2023 11:34,maita.yranela@uno.bank
+819,2322642725,NULL,GSave,Profile Update,Inbound Call,,,Customer,N,"Date&Time: Aug. 17 11:32AM
+Support Channel: Inbound
+Account no.: 4138
+Issue: Mobile Number Change Request Follow
+Action Done: 
+- informed the cx that her request already been raise to our dedicated Team. (Notes in Mambu)
+- customer wanted to expedite it since she worried about her account (Lost phone)
+- Offer temporary lock account however cx declined
+-informed the that it will takes 3-5 Banking days",18-08-2023 11:35,elmo.antonio@uno.bank
+820,2322364003,NULL,GSave,Deposit Money,In-App,,,Customer,N,"Date and Time: Aug 17,2023
+Support Channel: In-App
+Account no.: 1525
+Issue: Unposted deposit money amounting PHP5000 yesterday from GCash to UNO
+Action: Adv. cx that the amount was already posted yesterday",18-08-2023 11:37,loida.lumagbas@uno.bank
+821,2322175964,NULL,GSave,Others,In-App,,,Customer,N,"Support Channel: In App
+Account Number: 6115
+Issue: Vague ( No specific concern )
+Action Done: I asked customer what is your specific concern",18-08-2023 11:39,danilo.sicat@uno.bank
+822,2322326445,NULL,Transactions,Add Money – Online,In-App,,,Customer,N,"Support: In app
+Acc num: 6004
+Issue: Deposit Money
+Action: Since cx already assisted by other agent
+-Ask for another assistance
+-Closing Spiel",18-08-2023 11:40,analyn.mabale@uno.bank
+824,2322721183,NULL,General Enquiry,Loans,In-App,,,Customer,N,"Support: In app
+Acc num: 4405
+Issue: Asking for Loan Update
+Action: Adv cx that the Loan Applications is currently on hold.",18-08-2023 11:53,analyn.mabale@uno.bank
+825,2322620539,NULL,Complaint,BSP Complaints,Email,,,Customer,N,"8/17/2023
+
+Support Channel: BOB / BSP consumer affairs
+Account: 4852
+Issue: Virtual Card Transaction - Debited from account but payment not received by merchant
+PHP 999.00 | 04/06/2023 | Merchant: Globe-Billspay 
+Actions Done: Reviewed account. PHP 999 was reversed by the merchant on 3/7/2023 and is already reflected in the account. informed customer, bsp notified accordingly regarding resolution.
+Reference Number: BSPCMS-2023-DR00000536",18-08-2023 11:57,justin.yuson@uno.bank
+826,2322620539,825,Complaint,BSP Complaints,Email,,,Customer,N,"Outbound attempts made to confirm case closure, cx no answer.",18-08-2023 11:58,justin.yuson@uno.bank
+827,2322485481,NULL,GSave,Deposit Money,Outbound Call,,,Customer,N,"Date and Time: Aug 18,2023
+Support Channel: Outbound
+Account no.:3087
+Issue:  Unposted deposit money didn't received to his UNO account
+	Date and transaction : Aug 17,2023 ; 30 minutes ago
+	Amount: PHP3500
+	Reference: N/A
+Action: Amount was already posted yesterday tried to call 3 times the cx but no response
+Jira: UISDV0-10342",18-08-2023 12:03,loida.lumagbas@uno.bank
+828,2322586178,NULL,Transactions,Send Money - Failed Transaction due to Error,Email,,,Customer,N,"8/14/2023 (re-applying notes, notes disappeared from CRM)
+Support Channel: email
+Account: 8807
+Issue: Send Money - unable to complete transactions, getting oops something went wrong error after entering otp.
+Actions Done: outbound call attempt failed. email sent 8/14 and 8/15 since based on transactions history, cx is finally able to transact, confirming with customer if case has been resolved. no response.
+Reference Number: UISDV0-10081",18-08-2023 12:04,justin.yuson@uno.bank
+829,2322211612,NULL,GSave,Withdraw Money,In-App,,,Customer,N,"Date and Time of Chat: 8/15/2023 1:08AM
+Support Channel: In-App
+Account Number: 8310
+Issue: 
+cx error encountered: We encountered a problem. We’re not able to complete this transaction. Please try again later.
+Action Done: i advc cx  Since your mobile number has already been updated on our end, I strongly encourage you to use the UNO mobile app for funds transactions.",18-08-2023 12:07,caira.sotto@uno.bank
+830,2322740003,NULL,General Enquiry,Others,In-App,,,Customer,N,"Support: In-app
+Acc number: 3471
+Issue: How to dl soa
+Action: we've already replied to your previous message ",18-08-2023 12:18,caira.sotto@uno.bank
+831,2322745956,NULL,GSave,Deposit Money,In-App,,,Customer,N,"Support: In-app
+Acc number: 6795
+Issue: unposted transaction ( Thank you)
+Action: Closing cript ",18-08-2023 12:22,caira.sotto@uno.bank
+832,2322560215,NULL,General Enquiry,Cards,In-App,,,Customer,N,"Support: In-app
+Acc number: 0230
+Issue: Atm card
+Action: Adv cx As of now, we only have a virtual card. For now, you can use our Virtual Card via the UNO mobile app for Pay Bills transactions and Online Purchases with no charges.",18-08-2023 12:28,caira.sotto@uno.bank
+833,2322560690,NULL,General Enquiry,Others,Inbound Call,,,Customer,N,"Date and Time: August 18,2023 12:23pm
+Support: Inbound
+Acc num: 8789
+Issue: Asking if cx eligible for 500 CASHBACK Promo
+
+Action:Adv cx that he not eligible for the promo since cx mentioned that he open account before the promo.
+-Adv cx that he can avail other promo that UNO offered.
+-Call ended while Digitize
+-Trying to call back but cx did not answer.",18-08-2023 12:31,analyn.mabale@uno.bank
+834,2322544669,NULL,Service Request,Certification,Inbound Call,,,Customer,N,"Date&Time: Aug 18, 12:49PM
+Support Channel: Inbound
+Account no.: 3456
+Issue: Bank Certificate request
+Action Done: 
+- asked for the purpose ( for Visa Application)
+- will forward to Banking Ops
+- informed the cx that it will takes 3-5 Banking days
+- verify email add on file.",18-08-2023 12:32,elmo.antonio@uno.bank
+835,2322753713,NULL,General Enquiry,Loans,In-App,,,Customer,N,"Support: In-app
+Acc number: 3584
+Issue: Seekcap online Loan application 
+Action: informed cx !  SeekCap is not part of our product. If you want to know more information and exciting updates, kindly visit our website https://uno.bank/ ",18-08-2023 12:38,caira.sotto@uno.bank
+837,2322299570,NULL,GSave,Profile Update,In-App,,,Customer,N,"Date&Time: Aug 18, 12:38PM
+Support Channel: In-App
+Account no.: 0105
+Issue: Mobile Number Request Change
+Action Done: 
+- Customer wanted to change her mobile number due to unregistered simcard
+- raise to JIRA UISDV0-10423
+- send response via In-App
+- informed the cx that it will takes 3-5 banking days",18-08-2023 12:41,elmo.antonio@uno.bank
+840,2322437675,NULL,GSave,Deposit Money,In-App,,,Customer,N,"Date&Time: Aug 18, 12:53PM
+Support Channel: In-App
+Account no.: 1055
+Issue: Ok na po mam/sir.thank you
+Action Done:
+- Send closing spiel via In-App
+",18-08-2023 12:55,elmo.antonio@uno.bank
+843,2322667208,NULL,General Enquiry,Send Money Enquiry,Inbound Call,,,Customer,N,"Date and time: 8/18/23
+Support: Inbound
+Acc number: 6358
+Issue: Bounce back- Send Money to DCPAY 
+Action: tried basic trouble shooting if still bounce back i will raised it our team for investigation
+",18-08-2023 13:03,caira.sotto@uno.bank
+845,2322632641,NULL,General Enquiry,Loans,In-App,,,Customer,N,"Issue: AVAIL LOAN
+Actions: educ the cx about the hold on loan application",18-08-2023 13:12,ron.balboa@uno.bank
+846,2322280049,NULL,GSave,Others,In-App,,,Customer,N,"Acc no.: 9780
+Issue: Vague! 
+Action Done: Asked customer his specific concern ",18-08-2023 13:13,rhycel.enverzo@uno.bank
+847,2322336504,NULL,General Enquiry,Loans,In-App,,,Customer,N,"Issue: AVAIL LOAN
+Actions: educ the cx about the hold on loan application",18-08-2023 13:17,ron.balboa@uno.bank
+848,2322303317,NULL,Transactions,Send Money - Failed Transaction due to Error,In-App,,,Customer,N,"Acc no.: 0923
+Issue: Unposted transaction Send Money to Seabank 
+Action Done: advised customer that the funds amounting of Php20,002.67 was already reversed back to his account ",18-08-2023 13:18,rhycel.enverzo@uno.bank
+849,2322297128,NULL,General Enquiry,Others,In-App,,,Customer,N,": cx forgot pin
+Action: Ask if cx  you are referring to your passcode in UNO mobile app?",18-08-2023 13:18,caira.sotto@uno.bank
+850,2322698625,NULL,General Enquiry,Time Deposit Query,In-App,,,Customer,N,"ISSUE: CX wants to know where to find the growth of her time deposit 
+
+ACTIONS: Provided the cx on how to find the growth",18-08-2023 13:23,ron.balboa@uno.bank
+852,2322597384,NULL,GSave,Loans,In-App,,,Customer,N,"Acc no.: 5713
+Issue: Loan Inquiry 
+Action Done: advised customer that our Loan Program is currently on hold 
+",18-08-2023 13:24,rhycel.enverzo@uno.bank
+854,2322588808,NULL,Service Request,Certification,Email,,,Customer,N,Bank cert request to customer's registered email address,18-08-2023 13:28,ethel.garcia@uno.bank
+855,2322252850,NULL,Service Request,Certification,Email,,,Customer,N,Bank cert sent to customer's registered email address,18-08-2023 13:29,ethel.garcia@uno.bank
+857,2322267404,NULL,Service Request,Certification,Email,,,Customer,N,Bank cert sent to customer's registered email address,18-08-2023 13:30,ethel.garcia@uno.bank
+858,2322484973,NULL,Service Request,Certification,In-App,,,Customer,N,Bank cert sent to customer's registered email address,18-08-2023 13:31,ethel.garcia@uno.bank
+863,2322263851,NULL,GSave,Loans,In-App,,,Customer,N,"Acc no.: 7911
+Issue: Loan follow up 
+Action Done: advised customer that our loan program is currently on hold 
+",18-08-2023 13:40,rhycel.enverzo@uno.bank
+864,2322455612,NULL,Service Request,Certification,In-App,,,Customer,N,"ISSUE: CX wants to issue Bank certificate (Balance as of August 17, and all TD Certificates) 
+ACTIONS: Raised to hourly and internal tracker",18-08-2023 13:43,ron.balboa@uno.bank
+865,2323072794,NULL,Transactions,Send Money - Posting Timeline,In-App,,,Customer,N,"Date&Time: Aug 18 1:42PM
+Support Channel: In-App
+Account: 8812
+Issue: Unposted deposit
+Transaction Amount: Php-5,000.00
+Transaction Date and Time: 17/Aug/2023 18:57:46
+Source and Destination Bank: UNO to Tonic Digital Bank
+Actions Done:
+- Send response via In-App
+- Informed the cx that the transaction was successful on our end.
+-Informed the cx that the Tonic Bank is a PESONET
+Reference Number: 98450881741692269863",18-08-2023 13:47,elmo.antonio@uno.bank
+867,2322173800,NULL,GSave,Loans,In-App,,,Customer,N,"Acc no.: 7262 
+Issue: Loan Inquiry 
+Action Done: advised customer that our Loan Program is currently on hold 
+",18-08-2023 13:47,rhycel.enverzo@uno.bank
+869,2322525556,NULL,General Enquiry,Cards,In-App,,,Customer,N,"ISSUE: CX wants to know how to acquire for our PHYSICAL DEBIT CARD
+ACTION: ADVISED CX that the physical card isn't available right now and can use Virtual card to enjoy online transaction",18-08-2023 13:51,ron.balboa@uno.bank
+870,2322248597,NULL,GSave,Profile Update,In-App,,,Customer,N,"Acc no.: 8259
+Issue: mobile number change request 
+Action Done: asked customer what happened to his mobile number that was registered on his account
+",18-08-2023 13:52,rhycel.enverzo@uno.bank
+872,2322674930,NULL,GSave,Others,Inbound Call,,,Customer,N,"Date and Time: 8/18/2023 1:40 PM.ACTION: INFROMED CX TO DEPOSIT ATLEAST 100PHP TO ACTIVATE THE ACCOUNT"".- line disconnected I called the customer back and got the line back""
+Support Channel: Inbound/outbound
+Account Number: 9413
+Issue: Can't open his account he receive an error which  something is weird happen "" ",18-08-2023 13:54,danilo.sicat@uno.bank
+873,2322551970,NULL,General Enquiry,Loans,In-App,,,Customer,N,"Issue: AVAIL LOAN
+Actions: educ the cx about the hold on loan application",18-08-2023 13:56,ron.balboa@uno.bank
+875,2322525556,NULL,General Enquiry,Cards,In-App,,,Customer,N,"Support: In app
+Acc num: 5190
+Issue: How to avail Physical Card
+Action: Adv cx that Physical Debit Mastercard isn't available. No worries as our team is working on it to be released very soon. For now, you can use our Virtual Card via the UNO mobile app for Pay Bills transactions and Online Purchases with no charges",18-08-2023 14:00,analyn.mabale@uno.bank
+876,2322561567,NULL,GSave,Others,In-App,,,Customer,N,"Acc no.: 5238
+Issue: asking why the balance on her account is not matching 
+Action Done: asked customer if she have made a transaction or purchased anything using her UNO Virtual Debit Mastercard
+",18-08-2023 14:01,rhycel.enverzo@uno.bank
+877,2322318244,NULL,GSave,Deposit Money,In-App,,,Customer,N,"Date&Time: Aug 18 1:58PM
+Support Channel: In-App
+Account no.: 6336
+Issue: Unposted Txn
+Action Done: 
+- Send Response via in-App
+- Informed the cx that there is no txn since the account was created
+- advised the cx to contact GCash",18-08-2023 14:01,elmo.antonio@uno.bank
+878,2322628611,NULL,GSave,Others,In-App,,,Customer,N,"Acc no.: 9170
+Issue: asking for bank code
+Action Done: asked customer for the purpose of swift code and advised that currently we can only make local transaction 
+",18-08-2023 14:06,rhycel.enverzo@uno.bank
+880,2322252261,NULL,GSave,Others,In-App,,,Customer,N,"Date&Time: Aug 18 2:07PM
+Support Channel: In-App
+Account no.: 3203
+Issue: gcash to gcash to my friend
+Action Done: 
+-send response via In-App
+- no specific concern",18-08-2023 14:09,elmo.antonio@uno.bank
+881,2322404772,NULL,Service Request,Profile Update,Outbound Call,,,Customer,N,"
+Issue: Mobile number change
+Actions: Tried to callback 3x to inform cx that the request was done but the did not pushed through
+",18-08-2023 14:11,ron.balboa@uno.bank
+882,2322673618,NULL,General Enquiry,Others,Inbound Call,,,Customer,N,"Date and Time: 8/18/2023 
+Support: Inbound / PID verified
+Issue: Can't open his account 
+        As per cx he received a message that his account was already updated
+       Cx asked regarding with Pay and save promos
+Action: Walkthrough cx to open his account and cx successfully open his account
+	  Educate cx about Pay and save promos",18-08-2023 14:14,loida.lumagbas@uno.bank
+883,2322411854,NULL,GSave,Loans,In-App,,,Customer,N,"Date&Time: Aug. 18 2:14PM
+Support Channel: In-App
+Account no.: 8897
+Issue: Loan Inq	
+Action Done: 
+- Send Response via In-App
+- Informed the cx that currently the loan is on hold",18-08-2023 14:15,elmo.antonio@uno.bank
+885,2322369228,NULL,GSave,Withdraw Money,In-App,,,Customer,N,"Support Channel: In App
+Account Number: 0081
+Issue: unposted withdrawal ( Hello po pa help lng Po hnd Po dumating sa gcash qu un g withdraw qu na 200, salamat )
+Action Done: I advised customer that I will raise his concern to our banking ops and the processing days is 1-3 banking days and gave his ticket number
+Date and Time of Transaction Made: 17/Aug/2023 06:11:21
+Amount: 200 PHP
+From and to Bank: UNO to GCash
+Reference #: 16922238787367257
+Jira: UISDV0-10430",18-08-2023 14:23,danilo.sicat@uno.bank
+886,2322525609,NULL,GSave,Deposit Money,Outbound Call,,,Customer,N,"Date and Time: Aug 18 , 2023
+Support Channel: Outbound 
+Account no.: 0469
+Issue:  Unposted deposit money from GCash to UNO and didn't received to his UNO account
+	Date and transaction : Aug 17,2023
+	Amount: PHP150
+	Reference:16922370221258920
+Action:  Try to call cx 3 times but no response from him ; wanted to inform that the amount was already posted yesterday",18-08-2023 14:28,loida.lumagbas@uno.bank
+887,2322567937,NULL,Service Request,Profile Update,Inbound Call,,,Customer,N,"Date and Time: August 18,2023 2:20pm
+Support: Inbound
+Acc num: 1536
+Issue:Mobile number change
+Action: Adv that since his concern already raised by the other agent.
+-Inform cx to kindly wait TAT 3-5 Banking days
+-While asking other assistance the call was ended. ",18-08-2023 14:38,analyn.mabale@uno.bank
+888,2322172074,NULL,GSave,Deposit Money,In-App,,,Customer,N,"Date and Time: Aug 18,2023
+Support Channel: In-App
+Account no.: 9179
+Issue: Unposted transaction deposit money amounting PHP3000 yesterday
+Action: Message cx thru In-App and inform that the amount was already posted yesterday",18-08-2023 14:46,loida.lumagbas@uno.bank
+889,2322567937,NULL,GSave,Profile Update,Inbound Call,,,Customer,N,"Date&Time: Aug. 18 2:40APM
+Support Channel: Inbound
+Account no.: 1536
+Issue: Mobile Number Change request 
+Action Done: 
+- Informed the cx that the previous request was declined since it was already registered
+- informed the cx that UNO is only allowing 1 account per mobile number
+- asked for other number
+- informed the cx that mobile number change request will takes 3-5 Banking days.
+- raise to JIRA UISDV0-10432",18-08-2023 14:48,elmo.antonio@uno.bank
+890,2322606030,NULL,Transactions,Add Money – OTC,In-App,,,Customer,N,"Acc no.: 5470 
+Issue: add money OTC unposted transaction 
+Action Done: asked customer where did the funds came from 
+",18-08-2023 14:49,rhycel.enverzo@uno.bank
+891,2322611768,NULL,GSave,Deposit Money,In-App,,,Customer,N,The amount PHP5000 was already posted and already inform cx thru In-App of other agent,18-08-2023 14:49,loida.lumagbas@uno.bank
+892,2322238024,NULL,GSave,Deposit Money,In-App,,,Customer,N,"Acc no.: 8184
+Issue: Thank you 
+Action Done: completed closing spiel 
+",18-08-2023 14:57,rhycel.enverzo@uno.bank
+893,2322737862,NULL,GSave,Profile Update,In-App,,,Customer,N,"Date&Time: Aug. 18 2:59APM
+Support Channel: In-App
+Account no.: 5033
+Issue: Mobile Number Change request 
+Action Done: 
+- send response via In-App
+- asked for new mobile number",18-08-2023 15:03,elmo.antonio@uno.bank
+895,2322734866,NULL,GSave,Others,In-App,,,Customer,N,"Date&Time: Aug 18 3PM
+Support Channel: In-App
+Account no.: 9788
+Issue: Paano ko maopen
+Action Done: 
+-send response via In-App
+- no specific concern",18-08-2023 15:14,elmo.antonio@uno.bank
+896,2322611665,NULL,Marketing Promotions,Promos and Offers,In-App,,,Customer,N,"Support: In-app
+Acc number: 9313
+Issue: 50% promo
+Action: since you already used your virtual UNO Debit Mastercard to pay and/or Pay Bills in the UNO app to get 10% cash credit last August 17, 2023. Kindly wait for the awarding schedule, September 12, 2023.",18-08-2023 15:17,caira.sotto@uno.bank
+898,2322349957,NULL,GSave,Loans,In-App,,,Customer,N,"Date&Time: Aug. 18 3PM
+Support Channel: In-App
+Account no.: 1802
+Issue: Loan Inq	
+Action Done: 
+- Send Response via In-App
+- Informed the cx that currently the loan is on hold
+",18-08-2023 15:20,elmo.antonio@uno.bank
+900,2322541786,NULL,GSave,Others,In-App,,,Customer,N,"
+Date&Time: Aug 18 3PM
+Support Channel: In-App
+Account no.: 4332
+Issue: Transaction History
+Action Done: 
+-send response via In-App
+- provide info how to check transaction history using mobile app",18-08-2023 15:34,elmo.antonio@uno.bank
+903,2322410300,NULL,Dispute,Card transactions,In-App,,,Customer,N,"Date and Time of Call: 8/18/2023 3:23PM
+Support Channel: Outbound
+Account Number: 9895
+Issue: Unauthorized Transaction
+Action Done: I tried to call the cx to asked if the last agent was able to say the mandatory disclosure but the cx is not answering the call",18-08-2023 15:59,jonathan.repollo@uno.bank
+905,2322318523,NULL,Onboarding,Registration,In-App,,,Customer,N,"ISSUE: CX can't link his account due to face verification error
+
+ACTION: Asked the cx if he has done any changes on his facial structure",18-08-2023 16:08,ron.balboa@uno.bank
+907,2322193780,NULL,GSave,Others,In-App,,,Customer,N,"Acc no.: 0147
+Issue: Vague! 
+Action Done: asked customer for his specific concern",18-08-2023 16:17,rhycel.enverzo@uno.bank
+908,2322307462,NULL,Service Request,Account Locking,Inbound Call,,,Customer,N,"Date and time: 8/18/2023
+Acc number: 6088
+Issue: Unable to access the account
+Action: Informed that we already raise this concern to our department. no worries if we have a feedback we call back her back again
+soup call: adv to monitor her account and by monday we will update cx even with or without updates. ",18-08-2023 16:20,caira.sotto@uno.bank
+909,2322768873,NULL,Onboarding,Registration,Inbound Call,,,Customer,N,"ISSUE: CX can't use full features of our mobile app
+upon account checking the cx account is pending approval 
+There was an email from UNO digital bank requesting for additional supporting documents for it to be able to be approved
+
+ACTIONS: Informed CX to check spam folders and kindly wait for email from our team ",18-08-2023 16:21,ron.balboa@uno.bank
+910,2322527223,NULL,GSave,Loans,In-App,,,Customer,N,"Acc no.: 1967
+Issue: Loan follow up 
+Action Done: advised customer that our Loan program is currently on hold",18-08-2023 16:23,rhycel.enverzo@uno.bank
+911,2322383690,NULL,General Enquiry,Add Money Enquiry,In-App,,,Customer,N,"ISSUE: CANT DO TRANSACTION .ACTION: INFROMED CX TO DEPOSIT ATLEAST 100PHP TO ACTIVATE THE ACCOUNT""",18-08-2023 16:24,ron.balboa@uno.bank
+912,2322441888,NULL,Transactions,Add Money – Online,Inbound Call,,,Customer,N,"Date and time: August 18,2023 4:23pm
+Support: Inbound
+Acc num: 6624
+Issue: Cx call for because he wants to clarify if his unposted transaction is already reverse.
+Action: Educate cx that it is already reverse. ",18-08-2023 16:28,analyn.mabale@uno.bank
+914,2322295205,NULL,GSave,Loans,In-App,,,Customer,N,"Acc no.: 3429
+Issue: customer is following up regarding on her loan application last July 12,2023 and also she already received an SMS that her application was already approved last July 19,2023 and she also received an email where she sent all needed documents 
+Action Done: advised customer that our UNOnow Loan Program is currently on hold and also advised that once the program is already resume we will notify them right away and advised to keep their lines open and monitor their email ",18-08-2023 16:37,rhycel.enverzo@uno.bank
+917,2322244282,NULL,GSave,Linking Gsave and UNO App,In-App,,,Customer,N,"Acc no.: 0389
+Issue: customer cannot link his Gsave Account to our UNO App 
+Action Done: asked customer his phone model and phone OS version ",18-08-2023 17:12,rhycel.enverzo@uno.bank
+919,2322208093,NULL,Service Request,Profile Update,In-App,,,Customer,N,"ISSUE: CX WANTS TO CHANGE MOBILE NUMBER DUE TO HER ROAMING ISN'T WORKING ANYMORE
+
+Actions: RAISED TO IT TEAM AND INFORMED THE CX THE REQUEST WILL TAKE 3-5 BANKING DAYS 
+UISDV0-10452",18-08-2023 17:19,ron.balboa@uno.bank
+920,2322637325,NULL,General Enquiry,Cards,Inbound Call,,,Customer,N,"Date and time: 8/18/2023
+Support: Inbound
+Acc number: 5804
+Issue: Virtual debit master card 
+Action: While in the conversation cx wants to hang up due to someone will call him, adv to call back for resolution",18-08-2023 17:22,caira.sotto@uno.bank
+921,2322637325,NULL,General Enquiry,Cards,Outbound Call,,,Customer,N,"Date and time: 8/18/2023
+Support: outbound
+Acc number: 5804
+Issue: Virtual debit master card 
+-cx transact using VC to Lazada
+-cx said someone call him confirmed he can already use VC but until now cx cant use it.
+Action: Adv we can raise it again, i will monitor his account time to time. ",18-08-2023 17:23,caira.sotto@uno.bank
+922,2322637325,NULL,General Enquiry,Cards,In-App,,,Customer,N,"Support: In-app
+Acc number: 5804
+Issue: Virtual debit master card
+Action: Adv cx weve already brought this up to our team",18-08-2023 17:23,caira.sotto@uno.bank
+923,2322204350,NULL,GSave,Others,In-App,,,Customer,N,"Vague Concern. I asked what is the specific concern.""""",18-08-2023 17:24,jonathan.repollo@uno.bank
+924,2322205561,NULL,General Enquiry,Loans,In-App,,,Customer,N,"Issue: AVAIL LOAN
+Actions: EDU THE CX ABOUT THE HOLD ON LOAN APPLICATION",18-08-2023 17:25,ron.balboa@uno.bank
+926,2322204399,NULL,General Enquiry,Loans,Inbound Call,,,Customer,N,"Issue: AVAIL LOAN
+Actions: EDU THE CX ABOUT THE HOLD ON LOAN APPLICATION",18-08-2023 17:30,ron.balboa@uno.bank
+927,2322575939,NULL,General Enquiry,Loans,In-App,,,Customer,N,"Issue: AVAIL LOAN
+Actions: EDU THE CX ABOUT THE HOLD ON LOAN APPLICATION",18-08-2023 17:32,ron.balboa@uno.bank
+928,2322740327,NULL,General Enquiry,Loans,In-App,,,Customer,N,"Issue: AVAIL LOAN
+Actions: EDU THE CX ABOUT THE HOLD ON LOAN APPLICATION",18-08-2023 17:35,ron.balboa@uno.bank
+930,2322657300,NULL,GSave,Others,In-App,,,Customer,N,"No further concern. I delivered the closing spiel.""""",18-08-2023 17:37,jonathan.repollo@uno.bank
+932,2322411854,NULL,General Enquiry,Loans,In-App,,,Customer,N,"Issue: AVAIL LOAN
+Actions: EDU THE CX ABOUT THE HOLD ON LOAN APPLICATION
+
+Delivered closing spiel",18-08-2023 17:42,ron.balboa@uno.bank
+933,2322299570,837,GSave,Profile Update,In-App,,,Customer,N,db : number change. gave jira already created UISDV0-10423,18-08-2023 17:42,maita.yranela@uno.bank
+934,2322761466,NULL,Transactions,Add Money – Online,In-App,,,Customer,N,Delivered closing spiel,18-08-2023 17:48,ron.balboa@uno.bank
+936,2322342811,NULL,Service Request,Profile Update,Email,,,Customer,N,"
+db 
+change of name to married name from angelie cervan bobos to angelie bobos tenorio
+customer sent marriage cert and nbi
+sent to kyc for rating ",18-08-2023 17:53,maita.yranela@uno.bank
+937,2322671713,NULL,Service Request,Profile Update,In-App,,,Customer,N,"ISSUE: CX WANTS TO CHANGE PROFILE INFORMATION
+
+ACTIONS: ASKED THE CX WHAT SHE WANTS TO CHANGE",18-08-2023 18:02,ron.balboa@uno.bank
+938,2322475603,NULL,Service Request,Profile Update,Email,,,Customer,N,"db 
+change number request 
+not using registered email 
+advd to send in-app ",18-08-2023 18:04,maita.yranela@uno.bank
+939,2322495824,NULL,GSave,Linking Gsave and UNO App,In-App,,,Customer,N,"Acc no.: 2879
+Issue: customer cannot link her account 
+Action Done: asked customer her phone model and OS version ",18-08-2023 18:06,rhycel.enverzo@uno.bank
+940,2322437531,NULL,GSave,Deposit Money,Inbound Call,,,Customer,N,"Date and Time of Call: 8/18/2023 6:12PM
+Support Channel: Inbound/In-App
+Account Number: 4247
+Issue: Unposted Deposit Money Transaction
+Action Done: I informed the cx that I will escalate this to our Banking ops and the TAT is 1-3 banking days
+Amount: 370
+Reference Number: 032346276
+Date of the transaction: August 18, 2023 6:09PM
+JIRA: UISDV0-10459",18-08-2023 18:28,jonathan.repollo@uno.bank
+941,2322208093,NULL,GSave,Profile Update,In-App,,,Customer,N,"Date and Time of Chat: 8/18/2023 12:08PM
+Support Channel: In-App
+Account Number: 7155
+Issue: Change of Mobile Number
+Action Done: I informed the cx that she will receive a SMS confirmation once the number is change",18-08-2023 18:38,jonathan.repollo@uno.bank
+943,2322245144,NULL,Transactions,Send Money - Posting Timeline,Inbound Call,,,Customer,N,"Date and Time: August 18,2023 6:42pm
+Support: Inbound
+Acc num: 6600
+Issue: Cx call for the transaction from Uno to Maya Bank that did not reflect to her account.
+Action: Adv cx that since it is Peso Net the transaction will be posted by tuesday (August 22 since monday is holiday.",18-08-2023 18:47,analyn.mabale@uno.bank
+946,2322626375,NULL,GSave,Others,In-App,,,Customer,N,"Acc no.: 4053
+Issue: cannot receive otp
+Action Done: asked customer if she still experiencing the same issue, upon she have already successful withdrawal ",18-08-2023 19:16,rhycel.enverzo@uno.bank
+948,2322317645,NULL,General Enquiry,Savings,In-App,,,Customer,N,"Date and Time of Chat: 8/18/2023 12:08PM
+Support Channel: In-App
+Account Number: 7859
+Issue: Savings Account Interest Rate
+Action Done: I educate the cx regarding our interest rate for Savings",18-08-2023 19:36,jonathan.repollo@uno.bank
